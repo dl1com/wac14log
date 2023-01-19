@@ -1,0 +1,8 @@
+services:
+  wac14:
+    build: .
+    volumes:
+      - ./data:/home/myuser/data
+      - ./config:/home/myuser/config
+    ports:
+      - 8501:8501

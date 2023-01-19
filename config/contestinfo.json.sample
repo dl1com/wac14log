@@ -1,0 +1,24 @@
+{
+    "contestname": "Sample Contest",
+    "description": "Lorem Ipsum dolor ...",
+    "bands" : [
+        {
+            "name": "160m",
+            "points": 1
+        },
+        {
+            "name": "80m",
+            "points": 2
+        }
+    ],
+    "callsigns": [
+        {
+            "name": "DL1FOO",
+            "points": 1
+        },
+        {
+            "name": "DB2BAR",
+            "points": 2
+        }
+    ]
+}
